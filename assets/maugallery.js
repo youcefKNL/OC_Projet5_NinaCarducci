@@ -137,17 +137,18 @@
         });
       }
       let index = 0,
-        next = null;
+        preview = null;
 
       $(imagesCollection).each(function (i) {
         if ($(activeImage).attr("src") === $(this).attr("src")) {
           index = i;
         }
       });
-      next =
+      //code corigé [index]  => [index -1] +remplacement nom de la variable next par preview pour + de lisibilité
+      preview =
         imagesCollection[index - 1] ||
         imagesCollection[imagesCollection.length - 1];
-      $(".lightboxImage").attr("src", $(next).attr("src"));
+      $(".lightboxImage").attr("src", $(preview).attr("src"));
     },
     nextImage() {
       let activeImage = null;
