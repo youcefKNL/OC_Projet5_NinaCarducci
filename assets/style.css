@@ -38,9 +38,10 @@ body {
   color: #000;
 }
 
-.carousel-item > img {
+.social-link img {
   width: 20px;
 }
+
 #about {
   display: flex;
   background-color: #f6d2b8;
@@ -89,21 +90,7 @@ body {
 }
 
 #gallery {
-  /* min-height: 100vh; */
-}
-
-.item-column {
-  flex: 0 0 auto;
-  width: 33.33%;
-  min-width: 300px;
-}
-.row {
-  justify-content: center;
-  margin: 0 auto;
-}
-.img-fluid {
-  max-width: 100%;
-  height: auto;
+  /*	min-height: 100vh; */
 }
 .title {
   text-align: center;
@@ -138,7 +125,6 @@ body {
   object-fit: cover;
   padding: 0.5em;
 }
-
 .mg-prev,
 .mg-next {
   width: 30px;
