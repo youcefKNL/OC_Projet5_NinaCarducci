@@ -38,10 +38,9 @@ body {
   color: #000;
 }
 
-.social-link img {
+.carousel-item > img {
   width: 20px;
 }
-
 #about {
   display: flex;
   background-color: #f6d2b8;
@@ -69,7 +68,6 @@ body {
 
 .picture img {
   width: 100%;
-  max-width: 1024px;
 }
 #about-me {
   flex: 2;
@@ -91,7 +89,21 @@ body {
 }
 
 #gallery {
-  /*	min-height: 100vh; */
+  /* min-height: 100vh; */
+}
+
+.item-column {
+  flex: 0 0 auto;
+  width: 33.33%;
+  min-width: 300px;
+}
+.row {
+  justify-content: center;
+  margin: 0 auto;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
 .title {
   text-align: center;
@@ -126,6 +138,7 @@ body {
   object-fit: cover;
   padding: 0.5em;
 }
+
 .mg-prev,
 .mg-next {
   width: 30px;
