@@ -5,6 +5,9 @@ body {
 * {
   font-family: "Inter", "arial";
   font-style: normal;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 .top-header {
   background-color: white;
@@ -101,9 +104,12 @@ body {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: #000000;
   background-color: #beb45a;
   border-radius: 0;
+}
+.nav-link:hover {
+  cursor: pointer;
 }
 .nav-pills .nav-link {
   color: #000;
@@ -124,6 +130,12 @@ body {
   height: 100%;
   object-fit: cover;
   padding: 0.5em;
+}
+.modal-dialog {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .mg-prev,
 .mg-next {
