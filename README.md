@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/youcefKNL?tab=repositories"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
-  Voici le lien vers mon site web : [nom-du-site](https://youcefKNL.github.io/OC_Projet5_NinaCarducci/)
+  <a href="https://github.com/youcefKNL?tab=repositories"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a></p>
+  <p>
+  Voici le lien vers le site web : https://youcefKNL.github.io/OC_Projet5_NinaCarducci/
 </p>
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103">
