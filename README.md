@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/youcefKNL?tab=repositories"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a></p>
-  <p>
+  <p align="center">
   Voici le lien vers le site web : https://youcefKNL.github.io/OC_Projet5_NinaCarducci/
 </p>
 <p align="center">
