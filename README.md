@@ -105,7 +105,9 @@ Mission 0 to 100% :
 
 S.E.O. optimization and accessibility
 
-![Audit Fin de Mission](https://github.com/youcefKNL/OC_Projet5_NinaCarducci/blob/master/seo%20img.png)
+<p align="center">
+  <img src="https://github.com/youcefKNL/OC_Projet5_NinaCarducci/blob/master/seo%20img.png">
+</p>
 
 ## 🛠 Skills
 
