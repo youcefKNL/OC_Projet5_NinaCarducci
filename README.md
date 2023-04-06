@@ -1,6 +1,10 @@
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) https://youcefKNL.github.io/OC_Projet5_NinaCarducci/
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<p align="center">
+  <a href="https://github.com/youcefKNL?tab=repositories"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
+  Voici le lien vers mon site web : [nom-du-site](https://youcefKNL.github.io/OC_Projet5_NinaCarducci/)
+</p>
+<p align="center">
+  <img src="https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103">
+</p>
 
 ![Logo](https://meilleur-mooc.fr/wp-content/uploads/2021/11/Openclassrooms.png)
 
