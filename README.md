@@ -6,15 +6,13 @@
 
 ## BADGE
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/powered-by-water.svg">
+  <img src="https://forthebadge.com/images/badges/uses-js.svg">
+  <img src="https://forthebadge.com/images/badges/uses-html.svg">
+  <img src="https://forthebadge.com/images/badges/uses-css.svg">
+  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg">
+</p>
 
 # Débuggez et optimisez un site de photographe
 
