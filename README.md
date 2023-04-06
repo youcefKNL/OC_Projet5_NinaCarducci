@@ -105,9 +105,11 @@ Mission 0 to 100% :
 
 S.E.O. optimization and accessibility
 
+![Audi Fin de Mission](https://github.com/youcefKNL/OC_Projet5_NinaCarducci/blob/master/seo%20img.png)
+
 ## 🛠 Skills
 
-S.E.O. tolls, google tools, shema.org, Web Content Accessibility Guidelines (WCAG) ...
+S.E.O. tools, google tools, shema.org, Web Content Accessibility Guidelines (WCAG) ...
 
 # Hi, I'm Youcef! 👋
 
