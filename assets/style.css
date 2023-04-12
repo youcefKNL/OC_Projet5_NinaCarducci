@@ -3,7 +3,7 @@ body {
   margin: auto;
 }
 * {
-  font-family: "Inter", "arial";
+  font-family: "Inter", "arial", serif;
   font-style: normal;
   margin: 0;
   padding: 0;
@@ -82,7 +82,7 @@ body {
   font-size: 30px;
 }
 .about-me__introduction {
-  font-family: "Spectral";
+  font-family: "Spectral", sans-serif;
   font-weight: 800;
   font-style: italic;
   width: 60%;

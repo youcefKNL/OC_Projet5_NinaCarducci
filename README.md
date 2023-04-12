@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source-200x33.png?v=103">
 </p>
-
 ![Logo](https://meilleur-mooc.fr/wp-content/uploads/2021/11/Openclassrooms.png)
 
 ## BADGE
